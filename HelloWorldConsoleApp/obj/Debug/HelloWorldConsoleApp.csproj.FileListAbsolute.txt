@@ -1,0 +1,2 @@
+c:\users\john\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+c:\users\john\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.csprojResolveAssemblyReference.cache
